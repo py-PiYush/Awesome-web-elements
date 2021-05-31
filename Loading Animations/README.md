@@ -18,3 +18,6 @@
 
 * Animation 6 <br>
 <a href="https://github.com/py-PiYush/Awesome-web-elements/tree/main/Loading%20Animations/Animation6_glowingRing"><img src="../img/animation6.jpg" width = "400px"></a>
+
+* Animation 7 <br>
+<a href="https://github.com/py-PiYush/Awesome-web-elements/tree/main/Loading%20Animations/Animation7_ball-in-out"><img src="../img/animation7.jpg" width = "400px"></a>
