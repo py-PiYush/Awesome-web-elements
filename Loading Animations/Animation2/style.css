@@ -10,8 +10,8 @@ body{
 }
 
 .loading{
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
     box-sizing: border-box;
     border-radius: 50%;
     border-top: 10px solid #e74c3c;
@@ -21,8 +21,8 @@ body{
 
 .loading::after, .loading::before{
     content: "";
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
     position: absolute;
     left: 0;
     top: -10px;
@@ -43,11 +43,11 @@ body{
 
 .loading span{
     position:absolute;
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
     color:white;
     text-align: center;
-    line-height: 150px;
+    line-height: 200px;
     animation: a2 4s linear infinite ;
 }
 
