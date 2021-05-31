@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #313131;
+}
+
+.center{
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+
+}
+
+.cir{
+    width: 60px;
+    height: 60px;
+    margin: auto;
+    position: relative;
+}
+.c1 , .c2{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-color: #e74c3c;
+    border-radius: 50%;
+    opacity: 0.6;
+    animation: grow 2s linear infinite;
+}
+
+.c2{
+    animation-delay: -1s;
+}
+
+@keyframes grow {
+    0%, 100%{
+        transform: scale(0);
+    }
+    50%{
+        transform: scale(1);
+    }
+    
+}
