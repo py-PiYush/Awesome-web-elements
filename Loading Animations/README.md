@@ -12,3 +12,6 @@
 
 * Animation 4 <br>
 <a href="https://github.com/py-PiYush/Awesome-web-elements/tree/main/Loading%20Animations/Animation4"><img src="../img/animation4.png" width = "400px"></a>
+
+* Animation 5 <br>
+<a href="https://github.com/py-PiYush/Awesome-web-elements/tree/main/Loading%20Animations/Animation5"><img src="../img/animation5.png" width = "400px"></a>
